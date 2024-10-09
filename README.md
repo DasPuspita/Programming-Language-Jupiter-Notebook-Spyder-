@@ -1,0 +1,1 @@
+Applied Python in Jupyter Notebook and Spyder to solve problems involving control structures (conditions, loops), data types (strings, tuples, lists, dictionaries), functions, exception handling, and algorithms (searching, sorting).
